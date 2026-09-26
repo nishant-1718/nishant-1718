@@ -1,4 +1,4 @@
-# 💫 About Me: Hi 👋, I'm Nishant Kumar Tripathi
+# Hi 👋, I'm Nishant Kumar Tripathi 💫
 <br>🔭 I’m currently working on: Data Analyst projects using Excel, SQL, Power BI, and Python.<br><br>👥 I’m looking to collaborate on: Data Analytics projects and real-world data-driven solutions.<br><br>🤝 I’m looking for help with: Improving my Data Analytics skills and gaining industry experience.<br><br>🌱 I’m currently learning: Advanced SQL, Power BI, Python, and Data Visualization.<br><br>💬 Ask me about: Data Analytics, SQL, Excel, Power BI, and Python.<br><br>⚡ Fun fact: I enjoy turning raw data into meaningful insights and learning something new every day.
 
 
